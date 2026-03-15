@@ -57,7 +57,3 @@
 ```
 
 ---
-
-## **Commit message:**
-```
-Add GitHub profile README
